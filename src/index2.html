@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Wajah Lucu Kamera</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+    body {
+      margin: 0;
+      font-family: 'Orbitron', sans-serif;
+      background: linear-gradient(135deg, #181c2b 0%, #232946 100%);
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+      padding-top: 40px;
+    }
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 10px;
+      letter-spacing: 2px;
+      text-shadow: 0 0 12px #00fff7;
+      color: #00fff7;
+    }
+    #game-desc {
+      font-size: 1.2rem;
+      margin-bottom: 30px;
+      color: #e0e0e0;
+      text-align: center;
+      max-width: 500px;
+    }
+    #face-challenge {
+      font-size: 2.3rem;
+      margin: 20px 0;
+      text-align: center;
+      background: #232946;
+      border-radius: 16px;
+      padding: 18px 30px;
+      box-shadow: 0 0 16px #00fff7, 0 2px 8px #232946;
+      min-width: 280px;
+      min-height: 60px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      transition: 0.3s;
+    }
+    .emoji {
+      font-size: 2.4rem;
+      margin: 0 10px;
+    }
+    button {
+      background-color: #00fff7;
+      border: none;
+      padding: 15px 40px;
+      font-size: 1.3rem;
+      border-radius: 10px;
+      color: #232946;
+      font-weight: bold;
+      cursor: pointer;
+      margin: 12px;
+      transition: 0.2s;
+      box-shadow: 0 2px 8px #00fff7;
+    }
+    button:hover {
+      background-color: #00ccbb;
+      color: #fff;
+    }
+    #webcam-container {
+      margin-top: 30px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    #video {
+      border: 4px solid #00fff7;
+      border-radius: 18px;
+      width: 500px;
+      height: 375px;
+      background: #10121a;
+      object-fit: cover;
+      box-shadow: 0 0 24px #00fff7;
+      margin-bottom: 10px;
+    }
+    #result {
+      font-size: 1.3rem;
+      color: #ffec00;
+      margin-top: 10px;
+      min-height: 30px;
+      text-shadow: 0 0 6px #232946;
+      text-align: center;
+    }
+    #preview {
+      margin-top: 15px;
+      border: 2px solid #00fff7;
+      border-radius: 12px;
+      width: 250px;
+      height: 188px;
+      object-fit: cover;
+      background: #232946;
+      display: none;
+    }
+    canvas { display: none; }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <h1>😆 Wajah Lucu Kamera 😜</h1>
+  <div id="game-desc">
+    Tiru ekspresi wajah yang muncul di layar! Klik <b>Ekspresi Baru</b> untuk tantangan berikutnya, lalu tekan <b>Cek!</b> setelah kamu menirukan ekspresi tersebut.<br>
+    <i>Ayo uji seberapa lucu dan kreatif ekspresimu!</i>
+  </div>
+  <div id="face-challenge">Klik "Ekspresi Baru" untuk mulai!</div>
+  <button onclick="newChallenge()">Ekspresi Baru</button>
+  <button onclick="checkFace()">Cek!</button>
+  <div id="webcam-container">
+    <video id="video" autoplay></video>
+    <div id="result"></div>
+    <img id="preview" alt="Hasil Foto Ekspresi">
+  </div>
+  <canvas id="canvas"></canvas>
+  <footer>
+    Dibuat oleh: <strong>Developer viewtech_name 🕵️</strong>
+  </footer>
+
+  <!-- Script webcam dan ekspresi -->
+  <script src="scan.js"></script>
+  <script>
+    const faces = [
+      "😜", "😂", "😱", "😎", "😡", "😲", "🥶", "🥳", "🤪", "😏", "😭", "😇", "😬", "😤", "😅", "🤩", "🥺"
+    ];
+
+    function newChallenge() {
+      const idx = Math.floor(Math.random() * faces.length);
+      $('#face-challenge').html(`<span class="emoji">${faces[idx]}</span>`);
+      $('#result').text('');
+      $('#preview').hide();
+    }
+
+    function checkFace() {
+      if (typeof captureFace === 'function') {
+        captureFace();
+      }
+
+      // Flash kamera
+      const flash = document.createElement('div');
+      flash.style.position = 'fixed';
+      flash.style.top = '0';
+      flash.style.left = '0';
+      flash.style.width = '100vw';
+      flash.style.height = '100vh';
+      flash.style.backgroundColor = '#fff';
+      flash.style.opacity = '0.8';
+      flash.style.zIndex = '9999';
+      document.body.appendChild(flash);
+      setTimeout(() => flash.remove(), 150);
+
+      // Suara klik kamera
+      const clickSound = new Audio('sounds/click.mp3');
+      clickSound.play();
+
+      // Delay -> tampilkan skor + suara pop
+      setTimeout(() => {
+        const popSound = new Audio('sounds/pop.mp3');
+        popSound.play();
+
+        const score = Math.floor(Math.random() * 51) + 50;
+        $('#result').html(`Ekspresimu sudah difoto!<br>Kemiripan: <b>${score}%</b> 🎯<br><i>Bandingkan dengan emoji di atas 👆</i>`);
+
+        // Animasi pop teks
+        $('#result').css({ transform: 'scale(0.7)', opacity: 0 });
+        $('#result').animate({ opacity: 1 }, {
+          duration: 300,
+          step: function (now, fx) {
+            if (fx.prop === 'opacity') {
+              const scale = 0.7 + (now * 0.3);
+              $(this).css('transform', `scale(${scale})`);
+            }
+          }
+        });
+      }, 300);
+    }
+  </script>
+</body>
+</html>

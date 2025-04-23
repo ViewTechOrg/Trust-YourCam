@@ -1,0 +1,6 @@
+rich
+rich-cli
+httpie
+requests
+prompt_toolkit
+cloudscraper
