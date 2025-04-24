@@ -9,3 +9,8 @@ install:
 	gem install lolcat
 	@echo "[?] Paket berhasil di install"
 	@echo "[?] tutor pakai ada di video resmi ViewTech Official"
+
+clear:
+	@export MOD="clear"
+	bash Server
+	tput reset
