@@ -106,7 +106,7 @@ This project is [MIT License](https://github.com/ViewTechOrg/Trust-YourCam/blob/
     <!-- Tambahan kontributor lainnya -->
          <td align="center"><a href="https://github.com/Xenzi-XN1"><img src="https://avatars.githubusercontent.com/u/82303963?v=4" width="100px;" alt=""/><br /><sub><b>Xenzi</b </sub></a><br />💻 🎨</td>
      <td align="center"><a href="https://github.com/Lubebansokhekel"><img src="https://avatars.githubusercontent.com/u/181061263?v=4" width="100px;" alt=""/><br /><sub><b>Galirus</b </sub></a><br />💻 🎨</td>
-         <td align="center"><a href="https://github.com/Dra-Ganzz"><img src="https://avatars.githubusercontent.com/u/173580864?v=4" width="100px;" alt=""/><br /><sub><b>Galirus</b </sub></a><br />💻 🎨</td>
+         <td align="center"><a href="https://github.com/Dra-Ganzz"><img src="https://avatars.githubusercontent.com/u/173580864?v=4" width="100px;" alt=""/><br /><sub><b>Vindra</b </sub></a><br />💻 🎨</td>
   </tr>
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
@@ -115,15 +115,15 @@ This project is [MIT License](https://github.com/ViewTechOrg/Trust-YourCam/blob/
 <div>
 <a href="https://vm.tiktok.com/ZSr3aQB1W/" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-</a>
+</a><br>
 
 <a href="https://www.youtube.com/@ViewTech_Or" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
+</a><br>
 
 <a href="https://www.instagram.com/viewtech4484/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
+</a><br>
 </div>
 
 > Copyright C ViewTech Team 2025
