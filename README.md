@@ -1,12 +1,5 @@
 <h1 align="center"><code>Trust-YourCam</code></h1> <p align="center"> <img src="https://github.com/ViewTechOrg/Server/blob/main/img/Trust-YourCam/WhatsApp%20Image%202025-04-25%20at%2011.09.13.jpeg" width="590"><br><br>
-   <a href="https://vm.tiktok.com/ZSr3aQB1W/" target="_blank">
-  <img src="https://0x0.st/8Vgn.png">
-   </a>
-<a
-  href="https://www.youtube.com/@ViewTech_Or">
-  <img src="https://0x0.st/8Vg5.png">
-</a>
-   <img src="https://img.shields.io/static/v1?label=ViewTechTeam&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?label=ViewTechTeam&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?label=Author&color=green&message=viewTech+ORG&logo=nim&logoColor=white&style=for-the-badge"><br>
   <img src="https://img.shields.io/github/stars/ViewTechOrg/Trust-YourCam?logo=github&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?label=Version&color=green&message=0.0.1&logo=Clockify&logoColor=white&style=for-the-badge"><br><br>
@@ -101,9 +94,7 @@ bash Server
 - Node.js / PHP / Backend ringan & fleksibel (tergantung setup pengguna)
 
 ### 📄 Lisensi
-Copyright © 2025 [ViewTechOrg OFC](https://github.com/ViewTechOrg).<br />
-This project is [MIT License](https://raw.githubusercontent.com/ViewTechOrg/Trust-YourCam/main/LICENSE) licensed.
-
+MIT License. Lihat file LICENSE untuk detail.
 
 ## ✨ Kontributor
 
@@ -117,5 +108,16 @@ This project is [MIT License](https://raw.githubusercontent.com/ViewTechOrg/Trus
   </tr>
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## SOSIAL MEDIA
+<div>
+   <a href="https://vm.tiktok.com/ZSr3aQB1W/" target="_blank">
+  <img src="https://0x0.st/8Vgn.png" width="100">
+   </a>
+<a
+  href="https://www.youtube.com/@ViewTech_Or">
+  <img src="https://0x0.st/8Vg5.png" width="100">
+</a>
+</div>
 
 > Copyright C ViewTech Team 2025
