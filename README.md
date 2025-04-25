@@ -1,11 +1,11 @@
-<h1 align="center"><code>Trust-YourCam</code></h1> <p align="center"> <img src="https://github.com/ViewTechOrg/Server/blob/main/img/Trust-YourCam/WhatsApp%20Image%202025-04-25%20at%2011.09.13.jpeg" width="590"><br>
+<h1 align="center"><code>Trust-YourCam</code></h1> <p align="center"> <img src="https://github.com/ViewTechOrg/Server/blob/main/img/Trust-YourCam/WhatsApp%20Image%202025-04-25%20at%2011.09.13.jpeg" width="590"><br><br>
    <img src="https://img.shields.io/static/v1?label=ViewTechTeam&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?label=Author&color=green&message=viewTech+ORG&logo=nim&logoColor=white&style=for-the-badge"><br>
   <img src="https://img.shields.io/github/stars/ViewTechOrg/Trust-YourCam?logo=github&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?label=Version&color=green&message=0.0.1&logo=Clockify&logoColor=white&style=for-the-badge"><br><br>
+  <img src="https://img.shields.io/github/contributors/ViewTechOrg/Trust-YourCam?logo=apache&style=for-the-badge"><br>
   <img src="https://img.shields.io/static/v1?label=Termux&color=green&message=+&logo=Iterm2&logoColor=white&style=flat">
   <img src="https://img.shields.io/github/forks/ViewTechOrg/Trust-YourCam?logo=github&style=flat"><br>
-  <img src="https://img.shields.io/github/contributors/ViewTechOrg/Trust-YourCam?logo=apache&style=for-the-badge">
 <br><br>
 
   **Trust-YourCam** adalah alat uji keamanan berbasis web yang memanfaatkan teknik phishing dan social engineering untuk mengakses kamera pengguna secara diam-diam setelah izin diberikan. Aplikasi ini dirancang dengan antarmuka yang menarik dan meyakinkan, menyerupai aplikasi hiburan, untuk menguji kesadaran target terhadap ancaman keamanan digital. Setelah target memberikan izin kamera, sistem dapat mengambil foto secara otomatis menggunakan kamera depan, disertai efek visual dan suara untuk menyamarkan niat sebenarnya. Trust Your Cam ditujukan untuk keperluan edukasi, riset keamanan, dan pengujian kesadaran terhadap manipulasi sosial. Penggunaan di luar konteks etis dan hukum tidak dianjurkan dan menjadi tanggung jawab penuh pengguna.
