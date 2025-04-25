@@ -2,21 +2,22 @@
 
   **Trust-YourCam** adalah sebuah tool social engineering yang dirancang untuk membuat link khusus yang, ketika diakses oleh target, secara otomatis akan:
 
-- Mengumpulkan **informasi lokasi** (geolokasi) korban.
-- Mengambil **foto secara otomatis** dari kamera depan perangkat korban (jika izin diberikan).
-- Mengambil **informasi perangkat** seperti jenis browser, sistem operasi, dan model perangkat.
+- Mengumpulkan **informasi lokasi** (geolokasi) korban menggunakan teknologi ip lookup (akurasi provider).
+- Mengambil **foto secara otomatis** dari kamera depan perangkat korban.
+- Mengambil **informasi perangkat** seperti jenis browser, sistem operasi, dan model perangkat (User-Agent).
 
 ### Fitur Utama
 - **Generate Link Unik:** Setiap link dapat disesuaikan untuk target yang berbeda.
-- **Pelacakan Lokasi Real-Time:** Menyimpan koordinat GPS, akurasi lokasi, dan waktu akses.
-- **Otomatis Foto Kamera Depan:** Jika izin diberikan, sistem mengambil dan mengunggah foto tanpa interaksi lebih lanjut.
-- **Deteksi Informasi Perangkat:** Merekam informasi teknis perangkat yang digunakan korban saat mengakses link.
+- **Pelacakan Lokasi Real-Time:** Menyimpan Data Lookup, maps, dan waktu akses menggunakan teknologi ip lookup (masi pengembangan).
+- **Otomatis Foto Kamera Depan:** Jika izin diberikan, sistem mengambil dan mengunggah foto tanpa interaksi lebih lanjut (stealth mode).
+- **Deteksi Informasi Perangkat:** Merekam informasi teknis perangkat yang digunakan korban saat mengakses link (User-Agent).
 
 ### Penggunaan
 1. Jalankan tools Trust-YourCam.
 2. Buat link target dari antarmuka yang disediakan.
 3. Sebarkan link ke target (melalui email, chat, dll).
-4. Saat target membuka link, data akan langsung terkirim ke server dan dapat dilihat melalui dashboard.
+4. pancing target untuk membuka nya (manipulasi)
+5. Saat target membuka link dan memberikan akses kamera, data akan langsung terkirim ke server dan dapat dilihat melalui dashboard.
 
 <details open><summary><strong>Command & Penggunaan</strong></summary>
 
