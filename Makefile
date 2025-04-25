@@ -11,6 +11,5 @@ install:
 	@echo "[?] tutor pakai ada di video resmi ViewTech Official"
 
 clear:
-	@export MOD="clear"
-	bash Server
+	export MOD="clear";bash Server
 	tput reset
