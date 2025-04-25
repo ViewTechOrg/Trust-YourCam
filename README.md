@@ -111,8 +111,6 @@ MIT License. Lihat file LICENSE untuk detail.
 
 ## SOSIAL MEDIA
 <div>
-<h2>Temui Saya di Sosial Media</h2>
-
 <a href="https://vm.tiktok.com/ZSr3aQB1W/" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
 </a>
