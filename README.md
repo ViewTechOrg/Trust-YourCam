@@ -87,7 +87,7 @@ bash Server
 > Hasilnya, interface akan menampilkan nama session: Polygon
 
 
-###📦 Teknologi yang Digunakan
+### 📦 Teknologi yang Digunakan
 - HTML/CSS/JS (Frontend)
 - Webcam API
 - IP Lookup API
