@@ -43,7 +43,7 @@ cd Trust-YourCam
 ### 3. runing tools Trust-YourCam
 ```bash
 make install
-export MOD="clear"
+export MOD="window"
 bash Server
 ```
 </details>
