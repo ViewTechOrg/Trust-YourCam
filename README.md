@@ -95,7 +95,7 @@ bash Server
 
 ### 📄 Lisensi
 Copyright © 2025 [ViewTechOrg OFC](https://github.com/ViewTechOrg)<br />
-This project is [MIT License](https://raw.githubusercontent.com/ViewTechOrg/Trust-YourCam/main/LICENSE) licensed.
+This project is [MIT License](https://github.com/ViewTechOrg/Trust-YourCam/blob/master/LICENSE) licensed.
 
 ## ✨ Kontributor
 
