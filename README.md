@@ -105,6 +105,7 @@ MIT License. Lihat file LICENSE untuk detail.
     <!-- Tambahan kontributor lainnya -->
          <td align="center"><a href="https://github.com/Xenzi-XN1"><img src="https://avatars.githubusercontent.com/u/82303963?v=4" width="100px;" alt=""/><br /><sub><b>Xenzi</b </sub></a><br />💻 🎨</td>
      <td align="center"><a href="https://github.com/Lubebansokhekel"><img src="https://avatars.githubusercontent.com/u/181061263?v=4" width="100px;" alt=""/><br /><sub><b>Galirus</b </sub></a><br />💻 🎨</td>
+         <td align="center"><a href="https://github.com/Dra-Ganzz"><img src="https://avatars.githubusercontent.com/u/173580864?v=4" width="100px;" alt=""/><br /><sub><b>Galirus</b </sub></a><br />💻 🎨</td>
   </tr>
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
