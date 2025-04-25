@@ -1,4 +1,9 @@
 <h1 align="center"><code>Trust-YourCam</code></h1> <p align="center"> <img src="https://github.com/ViewTechOrg/Server/blob/main/img/Trust-YourCam/WhatsApp%20Image%202025-04-25%20at%2011.09.13.jpeg" width="590"><br><br>
+   <a href="https://vm.tiktok.com/ZSr3aQB1W/" target="_blank">
+  <img src="https://0x0.st/8Vgn.png">
+  href="https://www.youtube.com/@ViewTech_Or">
+  <img src="https://0x0.st/8Vg5.png">
+</a>
    <img src="https://img.shields.io/static/v1?label=ViewTechTeam&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?label=Author&color=green&message=viewTech+ORG&logo=nim&logoColor=white&style=for-the-badge"><br>
   <img src="https://img.shields.io/github/stars/ViewTechOrg/Trust-YourCam?logo=github&style=for-the-badge">
