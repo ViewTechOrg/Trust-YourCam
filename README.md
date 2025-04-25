@@ -86,6 +86,11 @@ bash Server
 ```
 > Hasilnya, interface akan menampilkan nama session: Polygon
 
+### 3. Shutdown Software / mematikan progamnya
+untuk mematikan program setelah di gunakan bisa mengetikan perintah di bawah ini setelah di ctrl c di salah satu panel nya
+```bash
+make clear
+```
 
 ### 📦 Teknologi yang Digunakan
 - HTML/CSS/JS (Frontend)
