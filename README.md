@@ -101,8 +101,8 @@ bash Server
 - Node.js / PHP / Backend ringan & fleksibel (tergantung setup pengguna)
 
 ### 📄 Lisensi
-Copyright © 2025 [ViewTechOrg](https://github.com/ViewTechOrg).<br />
-This project is [Apache License 2.0](https://raw.githubusercontent.com/ViewTechOrg/Trust-YourCam/main/LICENSE) licensed.
+Copyright © 2025 [ViewTechOrg OFC](https://github.com/ViewTechOrg).<br />
+This project is [MIT License](https://raw.githubusercontent.com/ViewTechOrg/Trust-YourCam/main/LICENSE) licensed.
 
 
 ## ✨ Kontributor
