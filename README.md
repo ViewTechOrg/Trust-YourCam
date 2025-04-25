@@ -1,7 +1,4 @@
 * <h1 align="center">Trust-YourCam</h1> <p align="center"> <img src="https://github.com/ViewTechOrg/Server/blob/main/img/Trust-YourCam/WhatsApp%20Image%202025-04-25%20at%2011.09.13.jpeg" width="590"><br>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
    <img src="https://img.shields.io/static/v1?label=ViewTechTeam&color=green&message=+&logo=nano&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?label=Author&color=green&message=viewTech+ORG&logo=nim&logoColor=white&style=for-the-badge"><br>
   <img src="https://img.shields.io/github/stars/ViewTechOrg/Trust-YourCam?logo=github&style=for-the-badge">
@@ -102,32 +99,14 @@ MIT License. Lihat file LICENSE untuk detail.
 ## ✨ Kontributor
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg"><img src="https://avatars.githubusercontent.com/u/86620608?v=4?s=100" width="100px;" alt="Speedrun"/><br /><sub><b>Speedrun</b></sub></a><br /><a href="https://github.com/ViewTechOrg/Trust-YourCam/commits?author=Bayu12345677" title="Code">💻</a> <a href="#design-Bayu12345677" title="Design">🎨</a></td>
-    </tr>
-  </tbody>
+  <tr>
+    <td align="center"><a href="https://github.com/Bayu12345677"><img src="https://avatars.githubusercontent.com/u/86620608?v=4" width="100px;" alt=""/><br /><sub><b>Bayu12345677</b </sub></a><br />💻 📢 🎨</td>
+    <!-- Tambahan kontributor lainnya -->
+         <td align="center"><a href="https://github.com/Xenzi-XN1"><img src="https://avatars.githubusercontent.com/u/82303963?v=4" width="100px;" alt=""/><br /><sub><b>Bayu12345677</b </sub></a><br />💻 🎨</td>
+     <td align="center"><a href="https://github.com/Lubebansokhekel"><img src="https://avatars.githubusercontent.com/u/181061263?v=4" width="100px;" alt=""/><br /><sub><b>Bayu12345677</b </sub></a><br />💻 🎨</td>
+  </tr>
 </table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 > Copyright C ViewTech Team 2025
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
