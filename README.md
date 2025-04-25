@@ -118,6 +118,9 @@ MIT License. Lihat file LICENSE untuk detail.
   href="https://www.youtube.com/@ViewTech_Or">
   <img src="https://0x0.st/8Vg5.png" width="100">
 </a>
+  <a href="https://www.instagram.com/viewtech4484/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 </div>
 
 > Copyright C ViewTech Team 2025
