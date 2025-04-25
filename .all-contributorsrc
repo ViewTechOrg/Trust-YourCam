@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Bayu12345677",
+      "name": "Speedrun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86620608?v=4",
+      "profile": "https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Trust-YourCam",
+  "projectOwner": "ViewTechOrg"
+}
