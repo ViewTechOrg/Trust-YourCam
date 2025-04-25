@@ -103,8 +103,8 @@ MIT License. Lihat file LICENSE untuk detail.
   <tr>
     <td align="center"><a href="https://github.com/Bayu12345677"><img src="https://avatars.githubusercontent.com/u/86620608?v=4" width="100px;" alt=""/><br /><sub><b>Bayu12345677</b </sub></a><br />💻 📢 🎨</td>
     <!-- Tambahan kontributor lainnya -->
-         <td align="center"><a href="https://github.com/Xenzi-XN1"><img src="https://avatars.githubusercontent.com/u/82303963?v=4" width="100px;" alt=""/><br /><sub><b>Bayu12345677</b </sub></a><br />💻 🎨</td>
-     <td align="center"><a href="https://github.com/Lubebansokhekel"><img src="https://avatars.githubusercontent.com/u/181061263?v=4" width="100px;" alt=""/><br /><sub><b>Bayu12345677</b </sub></a><br />💻 🎨</td>
+         <td align="center"><a href="https://github.com/Xenzi-XN1"><img src="https://avatars.githubusercontent.com/u/82303963?v=4" width="100px;" alt=""/><br /><sub><b>Xenzi</b </sub></a><br />💻 🎨</td>
+     <td align="center"><a href="https://github.com/Lubebansokhekel"><img src="https://avatars.githubusercontent.com/u/181061263?v=4" width="100px;" alt=""/><br /><sub><b>Galirus</b </sub></a><br />💻 🎨</td>
   </tr>
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
