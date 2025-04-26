@@ -4,18 +4,17 @@ from rich.panel import Panel
 
 console = Console()
 
-# List modul yang ingin dicek (modul_name, pip_name)
+# List modul yang ingin dicek (modul_import_name, pip_install_name)
 modules = [
     ("rich", "rich"),
     ("rich_cli", "rich-cli"),
-    ("httpie", "cloudscraper"),
+    ("cloudscraper", "cloudscraper"),
     ("requests", "requests"),
     ("prompt_toolkit", "prompt_toolkit"),
 ]
 
-missing = []
-
 def check_modules():
+    missing = []  # Pindahkan missing ke dalam fungsi supaya bersih
     console.print(Panel("📦 [bold cyan]Mengecek dependensi Python...[/bold cyan]", expand=False))
 
     table = Table(title="Status Modul", show_lines=True)
@@ -37,7 +36,7 @@ def check_modules():
         console.print(
             Panel(
                 f"[bold yellow]Beberapa modul tidak ditemukan![/bold yellow]\n\n"
-                f"[bold red]Jalankan ini:[/bold red]\n"
+                f"[bold red]Jalankan ini:[/bold red]\n\n"
                 f"[italic green]pip install {' '.join(missing)}[/italic green]",
                 title="🚨 [red]Perlu Install Modul[/red]",
                 border_style="red"
@@ -45,7 +44,6 @@ def check_modules():
         )
     else:
         console.print(Panel("[bold green]✅ Semua modul sudah terinstall![/bold green]", expand=False))
-
 
 if __name__ == "__main__":
     check_modules()
