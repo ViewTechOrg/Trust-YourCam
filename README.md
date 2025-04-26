@@ -40,6 +40,7 @@ apt install git make
 ```bash
 git clone https://github.com/ViewTechOrg/Trust-YourCam
 cd Trust-YourCam
+make install
 ```
 ### 3. command tools Trust-YourCam
 ```bash
