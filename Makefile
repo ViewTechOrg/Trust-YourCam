@@ -20,3 +20,10 @@ stop:
 
 update:
 	bash -c "export MOD='update';bash Server"
+help:
+        @echo "make help"
+        @echo "│"
+        @echo "├───► make install"
+        @echo "├───► make build"
+        @echo "├───► make stop"
+        @echo "└───► make update
