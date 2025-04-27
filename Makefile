@@ -2,7 +2,7 @@ install:
 	pkg update
 	pkg upgrade
 	apt-get install curl jq html2text cloudflared bash
-	apt-get install boxes xh wget screen ruby neofetch
+	apt-get install boxes xh wget screen ruby neofetch figlet
 	apt-get install pv mpv python tmux bc php toilet
 	pip install -r requirements.txt
 	gem install lolcat
