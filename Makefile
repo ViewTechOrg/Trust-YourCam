@@ -1,9 +1,9 @@
 install:
 	pkg update
 	pkg upgrade
-	apt-get install curl jq html2text cloudflared
+	apt-get install curl jq html2text cloudflared bash
 	apt-get install boxes xh wget screen ruby neofetch
-	apt-get install pv mpv python tmux bc
+	apt-get install pv mpv python tmux bc php
 	pip install -r requirements.txt
 	gem install lolcat
 	@echo "[?] Paket berhasil di install"
