@@ -4,7 +4,7 @@ install:
 	apt-get install curl jq html2text cloudflared bash
 	apt-get install boxes xh wget screen ruby neofetch figlet
 	apt-get install pv mpv python tmux bc php toilet tree
-pkg install ncurses-utils
+        pkg install ncurses-utils
 	pip install -r requirements.txt
 	gem install lolcat
 	@echo "[?] Paket berhasil di install"
