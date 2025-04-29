@@ -1,16 +1,15 @@
 install:
-	pkg update
-	pkg upgrade
-	apt-get install curl jq html2text cloudflared bash -y
-	apt-get install boxes xh wget screen ruby neofetch figlet -y
-	apt-get install pv mpv python tmux bc php toilet tree -y
+	pkg update -y
+	pkg upgrade -y
+	pkg install curl jq html2text cloudflared bash -y
+	pkg install boxes xh wget screen ruby neofetch figlet -y
+	pkg install pv mpv python tmux bc php toilet tree -y
 	pkg install ncurses-utils cowsay -y
-        gem install lolcat
-	pip install -r requirements.txt
 	gem install lolcat
-	@echo "\033[1;32m[?] Paket berhasil di install\033[0m"
+	pip install -r requirements.txt
+	@echo "\033[1;32m[✓] Paket berhasil diinstall\033[0m"
 	@echo "\033[1;34m[?] Tutor pakai ada di video resmi ViewTech Official\033[0m"
-        @xdg-open "https://youtu.be/KCg2qnYJEkk?si=k1BPmvKvctV7EJ_E"
+	@termux-open-url "https://youtu.be/KCg2qnYJEkk?si=k1BPmvKvctV7EJ_E"
 build:
 	@echo "\033[1;33m[?] Menyiapkan Program\033[0m"
 	@sleep 1
