@@ -26,11 +26,11 @@ help:
         define clear_screen
 	@clear
 	@cowsay -f eyes "Trust YourCam" | lolcat
-        endef
-        @echo
+	@echo
 	@echo "\033[1;36mmake help\033[0m"
 	@echo "│"
 	@echo "├───► make install"
 	@echo "├───► make build"
 	@echo "├───► make stop"
 	@echo "└───► make update"
+        endef
