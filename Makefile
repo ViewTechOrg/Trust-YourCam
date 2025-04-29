@@ -22,8 +22,7 @@ stop:
 update:
 	bash -c "export MOD='update';bash Server"
 
-help:
-        define clear_screen
+define help
 	@clear
 	@cowsay -f eyes "Trust YourCam" | lolcat
 	@echo
@@ -33,4 +32,7 @@ help:
 	@echo "├───► make build"
 	@echo "├───► make stop"
 	@echo "└───► make update"
-        endef
+endef
+
+help:
+	$(call help)
