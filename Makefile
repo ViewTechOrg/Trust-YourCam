@@ -23,7 +23,11 @@ update:
 	bash -c "export MOD='update';bash Server"
 
 help:
-        @clear
+        define clear_screen
+	@clear
+	@cowsay -f eyes "Trust YourCam" | lolcat
+        endef
+        @echo
 	@echo "\033[1;36mmake help\033[0m"
 	@echo "│"
 	@echo "├───► make install"
