@@ -10,7 +10,7 @@ install:
 	gem install lolcat
 	@echo "\033[1;32m[?] Paket berhasil di install\033[0m"
 	@echo "\033[1;34m[?] Tutor pakai ada di video resmi ViewTech Official\033[0m"
-
+        @xdg-open "https://youtu.be/KCg2qnYJEkk?si=k1BPmvKvctV7EJ_E"
 build:
 	@echo "\033[1;33m[?] Menyiapkan Program\033[0m"
 	@sleep 1
