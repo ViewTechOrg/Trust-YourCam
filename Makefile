@@ -1,10 +1,11 @@
 install:
 	pkg update
 	pkg upgrade
-	apt-get install curl jq html2text cloudflared bash
-	apt-get install boxes xh wget screen ruby neofetch figlet
-	apt-get install pv mpv python tmux bc php toilet tree
-	pkg install ncurses-utils
+	apt-get install curl jq html2text cloudflared bash -y
+	apt-get install boxes xh wget screen ruby neofetch figlet -y
+	apt-get install pv mpv python tmux bc php toilet tree -y
+	pkg install ncurses-utils cowsay -y
+        gem install lolcat
 	pip install -r requirements.txt
 	gem install lolcat
 	@echo "\033[1;32m[?] Paket berhasil di install\033[0m"
