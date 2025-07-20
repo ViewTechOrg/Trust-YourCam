@@ -12,6 +12,8 @@ install:
 	@termux-open-url "https://youtu.be/KCg2qnYJEkk?si=k1BPmvKvctV7EJ_E"
 build:
 	@echo "\033[1;33m[?] Menyiapkan Program\033[0m"
+        @echo "Join Grup Biar Bisa Ngobrol Sama Atmin dan member lainya"
+        @echo "[>] link komunitas : https://t.me/+NlHuKTzhZbRkMTJl"
 	@sleep 1
 	bash -c "export MOD='window';bash Server"
 
