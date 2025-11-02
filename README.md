@@ -16,7 +16,7 @@
 - 🧾 Informasi Perangkat: Seperti jenis browser, sistem operasi, dan model perangkat.
 ### 🧩 Fitur Utama
 - 🔗 Generate Link Unik: Buat tautan yang dapat dikustomisasi untuk setiap target.
-- 🗺️ Pelacakan Lokasi Real-Time: Menampilkan data IP lookup, peta, dan waktu akses (fitur dalam pengembangan).
+- 🗺️ Pelacakan Lokasi Real-Time: Menampilkan data IP lookup, peta, dan lacak dengan gps (anti deteksi phising).
 - 🎥 Foto Kamera Depan Otomatis: Mengambil dan mengunggah gambar secara otomatis setelah target memberi izin kamera.
 - 📱 Deteksi Perangkat Otomatis: Mendeteksi sistem operasi, browser, dan model perangkat menggunakan User-Agent.
 
