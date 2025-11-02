@@ -28,7 +28,7 @@
 5. Saat target membuka link dan memberikan akses kamera, data akan langsung terkirim ke server dan dapat dilihat melalui dashboard.
 
 <h3>Klik tutorial</h3>
-<details close><summary><strong>Command & Penggunaan <code>(pemula)</code></strong></summary>
+<details open><summary><strong>Command & Penggunaan <code>(pemula)</code></strong></summary>
 
 ### 1. Install package 
 ```bash
@@ -50,7 +50,7 @@ make update # untuk update
 ```
 </details><br>
 
-<details close><summary><strong>Command & Penggunaan <code>(pro)</code></strong></summary>
+<details open><summary><strong>Command & Penggunaan <code>(pro)</code></strong></summary>
 
 ### 1. Install package 
 ```bash
