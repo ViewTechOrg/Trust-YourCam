@@ -3,7 +3,7 @@ install:
 	pkg upgrade -y
 	pkg install curl jq html2text cloudflared bash -y
 	pkg install boxes xh wget screen ruby neofetch figlet -y
-	pkg install pv mpv python tmux bc php toilet tree -y
+	pkg install pv mpv python tmux bc php toilet tree rust -y
 	pkg install ncurses-utils cowsay -y
 	gem install lolcat
 	npm install -g javascript-obfuscator
