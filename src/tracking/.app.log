@@ -1,0 +1,949 @@
+\e[92m[\e[90mSat 25 Oct 2025 10.43.11\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSat 25 Oct 2025 10.43.14\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSat 25 Oct 2025 10.43.15\e[92m]\e[90m [\e[91mERROR\e[90m]\e[93m [1m[37mTerjadi [1m[31mkesalahan [1m[37msaat[1m[33m memenkripsi payload
+\e[92m[\e[90mSat 25 Oct 2025 10.43.15\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mJalankan Kembali Tools Dan Terminal Dalam Kondisi [1m[37mPastikan[1m[33m Normal
+\e[92m[\e[90mSat 25 Oct 2025 10.43.32\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSat 25 Oct 2025 10.43.32\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSat 25 Oct 2025 10.43.32\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mSat 25 Oct 2025 10.48.31\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSat 25 Oct 2025 10.48.34\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSat 25 Oct 2025 10.48.35\e[92m]\e[90m [\e[91mERROR\e[90m]\e[93m [1m[37mTerjadi [1m[31mkesalahan [1m[37msaat[1m[33m memenkripsi payload
+\e[92m[\e[90mSat 25 Oct 2025 10.48.35\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mJalankan Kembali Tools Dan Terminal Dalam Kondisi [1m[37mPastikan[1m[33m Normal
+\e[92m[\e[90mSat 25 Oct 2025 10.49.05\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSat 25 Oct 2025 10.49.05\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSat 25 Oct 2025 10.49.05\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mSat 25 Oct 2025 10.52.38\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSat 25 Oct 2025 10.52.41\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSat 25 Oct 2025 10.52.42\e[92m]\e[90m [\e[91mERROR\e[90m]\e[93m [1m[37mTerjadi [1m[31mkesalahan [1m[37msaat[1m[33m memenkripsi payload
+\e[92m[\e[90mSat 25 Oct 2025 10.52.42\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mJalankan Kembali Tools Dan Terminal Dalam Kondisi [1m[37mPastikan[1m[33m Normal
+\e[92m[\e[90mSat 25 Oct 2025 10.53.23\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSat 25 Oct 2025 10.53.23\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSat 25 Oct 2025 10.53.23\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mSat 25 Oct 2025 10.57.12\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSat 25 Oct 2025 10.57.15\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSat 25 Oct 2025 10.57.16\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSat 25 Oct 2025 10.57.31\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://spoo.me/7Qlekn
+\e[92m[\e[90mSat 25 Oct 2025 10.57.31\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 10.57.32\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 10.57.45\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 10.57.45\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mSat 25 Oct 2025 11.20.38\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSat 25 Oct 2025 11.20.41\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSat 25 Oct 2025 11.20.42\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSat 25 Oct 2025 11.25.01\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_ofiv2cp
+\e[92m[\e[90mSat 25 Oct 2025 11.25.01\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 11.25.01\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 11.25.16\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 11.25.16\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mSat 25 Oct 2025 11.49.10\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSat 25 Oct 2025 11.49.13\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSat 25 Oct 2025 11.49.14\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSat 25 Oct 2025 11.49.21\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_drcbr6n
+\e[92m[\e[90mSat 25 Oct 2025 11.49.21\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 11.49.21\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 11.49.30\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 11.49.30\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mSat 25 Oct 2025 13.26.42\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSat 25 Oct 2025 13.26.45\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSat 25 Oct 2025 13.26.46\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSat 25 Oct 2025 13.26.53\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_o25eiga
+\e[92m[\e[90mSat 25 Oct 2025 13.26.53\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 13.26.53\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 13.27.46\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 13.27.46\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mSat 25 Oct 2025 13.36.37\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSat 25 Oct 2025 13.36.40\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSat 25 Oct 2025 13.36.41\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSat 25 Oct 2025 13.36.47\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_sqbinhe
+\e[92m[\e[90mSat 25 Oct 2025 13.36.47\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 13.36.47\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 13.37.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 13.37.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mSat 25 Oct 2025 13.39.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSat 25 Oct 2025 13.39.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSat 25 Oct 2025 13.39.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mSat 25 Oct 2025 13.46.17\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSat 25 Oct 2025 13.46.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSat 25 Oct 2025 13.46.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSat 25 Oct 2025 13.46.27\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_vqxh8c6
+\e[92m[\e[90mSat 25 Oct 2025 13.46.27\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 13.46.27\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 13.47.29\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=,[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 13.47.29\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 13.47.31\e[92m]\e[90m [\e[91mERROR\e[90m]\e[93m [1m[31mGagal Membuat Directory Untuk Menyimpan [0m[35mHasil
+\e[92m[\e[90mSat 25 Oct 2025 13.47.32\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=,[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 13.47.32\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 13.47.32\e[92m]\e[90m [\e[91mERROR\e[90m]\e[93m [1m[31mGagal Membuat Directory Untuk Menyimpan [0m[35mHasil
+\e[92m[\e[90mSat 25 Oct 2025 13.47.33\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=,[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 13.47.33\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 13.47.33\e[92m]\e[90m [\e[91mERROR\e[90m]\e[93m [1m[31mGagal Membuat Directory Untuk Menyimpan [0m[35mHasil
+\e[92m[\e[90mSat 25 Oct 2025 13.47.33\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=,[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 13.47.33\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 13.47.34\e[92m]\e[90m [\e[91mERROR\e[90m]\e[93m [1m[31mGagal Membuat Directory Untuk Menyimpan [0m[35mHasil
+\e[92m[\e[90mSat 25 Oct 2025 13.47.34\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=,[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 13.47.34\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 13.47.35\e[92m]\e[90m [\e[91mERROR\e[90m]\e[93m [1m[31mGagal Membuat Directory Untuk Menyimpan [0m[35mHasil
+\e[92m[\e[90mSat 25 Oct 2025 13.47.35\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=,[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 13.47.35\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 13.47.36\e[92m]\e[90m [\e[91mERROR\e[90m]\e[93m [1m[31mGagal Membuat Directory Untuk Menyimpan [0m[35mHasil
+\e[92m[\e[90mSat 25 Oct 2025 13.47.36\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=,[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 13.47.36\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 13.47.36\e[92m]\e[90m [\e[91mERROR\e[90m]\e[93m [1m[31mGagal Membuat Directory Untuk Menyimpan [0m[35mHasil
+\e[92m[\e[90mSat 25 Oct 2025 13.47.37\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=,[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 13.47.38\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 13.47.40\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSat 25 Oct 2025 13.47.40\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSat 25 Oct 2025 13.47.40\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mSat 25 Oct 2025 13.59.17\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSat 25 Oct 2025 13.59.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSat 25 Oct 2025 13.59.21\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSat 25 Oct 2025 13.59.27\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_mxnid0m
+\e[92m[\e[90mSat 25 Oct 2025 13.59.27\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 13.59.27\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.01.34\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=null,null[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.01.34\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.01.50\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=null,null[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.01.50\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.01.50\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 14.01.51\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=null,null[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.01.51\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.01.51\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 14.01.52\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=null,null[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.01.52\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.01.52\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 14.01.53\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=null,null[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.01.53\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.01.53\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 14.01.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=null,null[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.01.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.01.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 14.01.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=null,null[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.01.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.01.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 14.01.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=null,null[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.01.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.01.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 14.01.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=null,null[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.01.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.01.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 14.01.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=null,null[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.01.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.01.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 14.01.57\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=null,null[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.01.57\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.01.57\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 14.01.57\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=null,null[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.01.57\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.01.57\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 14.01.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=null,null[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.01.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.01.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 14.01.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=null,null[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.01.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.01.59\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 14.01.59\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=null,null[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.01.59\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.01.59\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 14.01.59\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=null,null[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.02.00\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.02.00\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 14.02.00\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSat 25 Oct 2025 14.02.00\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSat 25 Oct 2025 14.02.00\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mSat 25 Oct 2025 14.18.46\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSat 25 Oct 2025 14.18.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSat 25 Oct 2025 14.18.50\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSat 25 Oct 2025 14.18.56\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://spoo.me/5GjvoO
+\e[92m[\e[90mSat 25 Oct 2025 14.18.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.18.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.18.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m127.0.0.1[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.18.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36
+\e[92m[\e[90mSat 25 Oct 2025 14.18.57\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-7.685308,111.916478[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.18.57\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.18.57\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 14.19.52\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.19.52\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mSat 25 Oct 2025 14.21.36\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-7.685308,111.916478[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.21.36\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.21.37\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 14.22.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.22.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mSat 25 Oct 2025 14.26.09\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSat 25 Oct 2025 14.26.09\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSat 25 Oct 2025 14.26.09\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mSat 25 Oct 2025 14.35.32\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSat 25 Oct 2025 14.35.35\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSat 25 Oct 2025 14.35.36\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSat 25 Oct 2025 14.35.44\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://spoo.me/SIAfuw
+\e[92m[\e[90mSat 25 Oct 2025 14.35.44\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.35.44\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.35.57\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSat 25 Oct 2025 14.35.57\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSat 25 Oct 2025 14.35.57\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mSat 25 Oct 2025 14.38.46\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSat 25 Oct 2025 14.38.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSat 25 Oct 2025 14.38.50\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSat 25 Oct 2025 14.39.42\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://spoo.me/afHbdo
+\e[92m[\e[90mSat 25 Oct 2025 14.39.42\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.39.42\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 14.39.59\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 14.39.59\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mSat 25 Oct 2025 14.44.07\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSat 25 Oct 2025 16.39.17\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSat 25 Oct 2025 16.39.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSat 25 Oct 2025 16.39.21\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSat 25 Oct 2025 16.39.31\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_wvq4tmh
+\e[92m[\e[90mSat 25 Oct 2025 16.39.31\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 16.39.31\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 16.41.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-7.685308,111.916478[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 16.41.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 16.41.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 17.12.40\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSat 25 Oct 2025 17.12.40\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSat 25 Oct 2025 17.12.40\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mSat 25 Oct 2025 17.20.49\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSat 25 Oct 2025 17.20.53\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSat 25 Oct 2025 17.20.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSat 25 Oct 2025 17.21.05\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://spoo.me/z7dXbW
+\e[92m[\e[90mSat 25 Oct 2025 17.21.05\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 17.21.05\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 17.21.15\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 17.21.15\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mSat 25 Oct 2025 17.23.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSat 25 Oct 2025 17.23.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSat 25 Oct 2025 17.23.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mSat 25 Oct 2025 17.26.59\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSat 25 Oct 2025 17.27.02\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSat 25 Oct 2025 17.27.03\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSat 25 Oct 2025 17.27.22\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_zf7foyv
+\e[92m[\e[90mSat 25 Oct 2025 17.27.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 17.27.23\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 17.27.32\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 17.27.32\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mSat 25 Oct 2025 17.28.30\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-7.678018,111.924445[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 17.28.30\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 17.28.31\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 17.30.05\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSat 25 Oct 2025 17.30.05\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSat 25 Oct 2025 17.30.07\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSat 25 Oct 2025 17.30.08\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSat 25 Oct 2025 17.30.08\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mSat 25 Oct 2025 17.40.57\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSat 25 Oct 2025 17.41.01\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSat 25 Oct 2025 17.41.02\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSat 25 Oct 2025 17.41.13\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_waj24dv
+\e[92m[\e[90mSat 25 Oct 2025 17.41.13\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 17.41.14\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSat 25 Oct 2025 17.41.25\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 17.41.25\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mSat 25 Oct 2025 17.42.11\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-7.685308,111.916478[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 17.42.11\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 17.42.12\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 17.42.13\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-7.685308,111.916478[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 17.42.13\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 17.42.13\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 17.42.15\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-7.685308,111.916478[1m[33m]
+\e[92m[\e[90mSat 25 Oct 2025 17.42.15\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSat 25 Oct 2025 17.42.15\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSat 25 Oct 2025 17.42.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSat 25 Oct 2025 17.42.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSat 25 Oct 2025 17.42.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mSun 26 Oct 2025 14.40.41\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[{Wa[6]}127{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}0{Wa[1]}.{Wa[6]}1{Wa[5]}:{Wa[6]}5000{Wa[3]}]
+\e[92m[\e[90mSun 26 Oct 2025 14.40.45\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSun 26 Oct 2025 14.40.46\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSun 26 Oct 2025 14.41.10\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m 
+\e[92m[\e[90mSun 26 Oct 2025 14.41.11\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSun 26 Oct 2025 14.41.11\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSun 26 Oct 2025 14.41.12\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-7.685308,111.916478[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 14.41.12\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSun 26 Oct 2025 14.41.13\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSun 26 Oct 2025 14.41.14\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-7.685308,111.916478[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 14.41.14\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSun 26 Oct 2025 14.41.15\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSun 26 Oct 2025 14.41.16\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-7.685308,111.916478[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 14.41.16\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSun 26 Oct 2025 14.41.17\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSun 26 Oct 2025 14.41.18\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSun 26 Oct 2025 14.41.18\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSun 26 Oct 2025 14.41.18\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mSun 26 Oct 2025 14.45.26\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 14.45.29\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSun 26 Oct 2025 14.45.30\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSun 26 Oct 2025 14.45.44\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_vsowc0l
+\e[92m[\e[90mSun 26 Oct 2025 14.45.44\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSun 26 Oct 2025 14.45.44\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSun 26 Oct 2025 14.46.04\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m149.154.161.215[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 14.46.04\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mTelegramBot (like TwitterBot)
+\e[92m[\e[90mSun 26 Oct 2025 14.47.33\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m140.213.47.144[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 14.47.33\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36
+\e[92m[\e[90mSun 26 Oct 2025 14.49.36\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m114.5.246.53[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 14.49.36\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.97 Mobile Safari/537.36
+\e[92m[\e[90mSun 26 Oct 2025 14.49.40\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m114.5.246.53[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 14.49.41\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36
+\e[92m[\e[90mSun 26 Oct 2025 14.50.29\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m140.213.47.144[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 14.50.29\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6828.70 Safari/537.36
+\e[92m[\e[90mSun 26 Oct 2025 14.50.36\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-7.678014,111.924429[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 14.50.36\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSun 26 Oct 2025 14.50.36\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSun 26 Oct 2025 14.55.31\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m149.154.161.201[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 14.55.31\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mTelegramBot (like TwitterBot)
+\e[92m[\e[90mSun 26 Oct 2025 14.55.42\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m114.5.246.53[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 14.55.42\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36
+\e[92m[\e[90mSun 26 Oct 2025 15.03.37\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=51.496400,-0.122400[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 15.03.37\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSun 26 Oct 2025 15.03.37\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSun 26 Oct 2025 15.05.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m140.213.47.144[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 15.05.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6828.70 Safari/537.36
+\e[92m[\e[90mSun 26 Oct 2025 15.06.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m140.213.47.144[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 15.06.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6828.70 Safari/537.36
+\e[92m[\e[90mSun 26 Oct 2025 15.07.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-6.768941,108.560303[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 15.07.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSun 26 Oct 2025 15.07.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSun 26 Oct 2025 15.07.23\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-6.768941,108.560303[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 15.07.23\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSun 26 Oct 2025 15.07.23\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSun 26 Oct 2025 15.31.45\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSun 26 Oct 2025 15.31.45\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSun 26 Oct 2025 15.31.45\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mSun 26 Oct 2025 15.37.55\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 15.37.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSun 26 Oct 2025 15.37.59\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSun 26 Oct 2025 15.38.07\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_f4vfpwk
+\e[92m[\e[90mSun 26 Oct 2025 15.38.07\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSun 26 Oct 2025 15.38.08\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSun 26 Oct 2025 15.38.25\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m149.154.161.212[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 15.38.25\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mTelegramBot (like TwitterBot)
+\e[92m[\e[90mSun 26 Oct 2025 15.39.18\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m140.213.255.51[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 15.39.18\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Linux; Android 11; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.97 Mobile Safari/537.36
+\e[92m[\e[90mSun 26 Oct 2025 15.39.50\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m140.213.255.51[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 15.39.50\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6828.70 Safari/537.36
+\e[92m[\e[90mSun 26 Oct 2025 15.40.23\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-6.769121,108.560129[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 15.40.23\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSun 26 Oct 2025 15.40.23\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m LocationDir
+\e[92m[\e[90mSun 26 Oct 2025 15.40.39\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSun 26 Oct 2025 15.40.39\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSun 26 Oct 2025 15.40.39\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mSun 26 Oct 2025 17.35.58\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mSun 26 Oct 2025 17.36.01\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSun 26 Oct 2025 17.36.03\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSun 26 Oct 2025 17.36.14\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://spoo.me/YV8wBa
+\e[92m[\e[90mSun 26 Oct 2025 17.36.14\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSun 26 Oct 2025 17.36.14\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSun 26 Oct 2025 17.56.37\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSun 26 Oct 2025 17.56.37\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSun 26 Oct 2025 17.56.37\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mMon 27 Oct 2025 23.09.11\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.09.14\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mMon 27 Oct 2025 23.09.15\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mMon 27 Oct 2025 23.09.24\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_pf68xnh
+\e[92m[\e[90mMon 27 Oct 2025 23.09.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mMon 27 Oct 2025 23.09.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mMon 27 Oct 2025 23.18.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m3.135.235.192[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.18.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+\e[92m[\e[90mMon 27 Oct 2025 23.18.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m3.136.84.53[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.18.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+\e[92m[\e[90mMon 27 Oct 2025 23.18.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m54.70.53.60[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.18.25\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+\e[92m[\e[90mMon 27 Oct 2025 23.19.02\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m172.120.11.30[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.19.02\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+\e[92m[\e[90mMon 27 Oct 2025 23.19.51\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m185.152.39.28[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.19.51\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+\e[92m[\e[90mMon 27 Oct 2025 23.20.41\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m168.205.75.56[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.20.41\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+\e[92m[\e[90mMon 27 Oct 2025 23.32.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mMon 27 Oct 2025 23.32.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mMon 27 Oct 2025 23.32.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mMon 27 Oct 2025 23.39.45\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.39.48\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mMon 27 Oct 2025 23.39.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mMon 27 Oct 2025 23.40.20\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://spoo.me/etTG15
+\e[92m[\e[90mMon 27 Oct 2025 23.40.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mMon 27 Oct 2025 23.40.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mMon 27 Oct 2025 23.40.39\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m44.201.237.13[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.40.39\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+\e[92m[\e[90mMon 27 Oct 2025 23.40.39\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m13.59.88.221[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.40.39\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+\e[92m[\e[90mMon 27 Oct 2025 23.40.39\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m107.178.194.165[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.40.39\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)
+\e[92m[\e[90mMon 27 Oct 2025 23.40.40\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m34.86.212.119[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.40.40\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+\e[92m[\e[90mMon 27 Oct 2025 23.40.42\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m45.84.107.172[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.40.42\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (compatible; MS
+\e[92m[\e[90mMon 27 Oct 2025 23.40.50\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m107.178.194.162[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.40.50\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Linux; Android 13; Pixel 4a (5G) Build/TQ2A.230505.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.136 Mobile Safari/537.36 GoogleApp/14.16.27.29.arm64 AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)
+\e[92m[\e[90mMon 27 Oct 2025 23.40.51\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m107.178.194.164[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.40.51\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Linux; Android 13; Pixel 4a (5G) Build/TQ2A.230505.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.136 Mobile Safari/537.36 GoogleApp/14.16.27.29.arm64 AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)
+\e[92m[\e[90mMon 27 Oct 2025 23.40.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m107.178.194.163[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.40.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Macintosh; 
+\e[92m[\e[90mMon 27 Oct 2025 23.40.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m107.178.194.161[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.40.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Macintosh; 
+\e[92m[\e[90mMon 27 Oct 2025 23.40.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m54.175.250.127[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.40.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+\e[92m[\e[90mMon 27 Oct 2025 23.40.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m3.14.127.16[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.40.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+\e[92m[\e[90mMon 27 Oct 2025 23.40.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m34.71.214.216[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.40.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Macintosh; 
+\e[92m[\e[90mMon 27 Oct 2025 23.40.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m185.225.69.222[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.40.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (compatible; MS
+\e[92m[\e[90mMon 27 Oct 2025 23.41.04\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m107.178.194.161[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.41.04\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Linux; Android 13; Pixel 4a (5G) Build/TQ2A.230505.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.136 Mobile Safari/537.36 GoogleApp/14.16.27.29.arm64 AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)
+\e[92m[\e[90mMon 27 Oct 2025 23.41.05\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m107.178.194.165[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.41.05\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Linux; Android 13; Pixel 4a (5G) Build/TQ2A.230505.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.136 Mobile Safari/537.36 GoogleApp/14.16.27.29.arm64 AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)
+\e[92m[\e[90mMon 27 Oct 2025 23.41.26\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.41.26\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mMon 27 Oct 2025 23.42.04\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m54.70.53.60[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.42.04\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+\e[92m[\e[90mMon 27 Oct 2025 23.42.08\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m54.71.187.124[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.42.08\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+\e[92m[\e[90mMon 27 Oct 2025 23.42.13\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.42.13\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mMon 27 Oct 2025 23.43.13\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mMon 27 Oct 2025 23.43.13\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mMon 27 Oct 2025 23.43.13\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mMon 27 Oct 2025 23.57.31\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.57.35\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mMon 27 Oct 2025 23.57.36\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mMon 27 Oct 2025 23.57.46\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_gfbt4pu
+\e[92m[\e[90mMon 27 Oct 2025 23.57.46\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mMon 27 Oct 2025 23.57.46\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mMon 27 Oct 2025 23.57.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.57.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mMon 27 Oct 2025 23.58.23\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m3.12.74.161[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.58.23\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+\e[92m[\e[90mMon 27 Oct 2025 23.58.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m3.17.147.121[1m[33m]
+\e[92m[\e[90mMon 27 Oct 2025 23.58.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+\e[92m[\e[90mMon 27 Oct 2025 23.58.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mMon 27 Oct 2025 23.58.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mMon 27 Oct 2025 23.58.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mTue 28 Oct 2025 00.04.03\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 00.04.06\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mTue 28 Oct 2025 00.04.07\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mTue 28 Oct 2025 00.04.26\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_7nf9y6n
+\e[92m[\e[90mTue 28 Oct 2025 00.04.26\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mTue 28 Oct 2025 00.04.26\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mTue 28 Oct 2025 00.04.40\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 00.04.40\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mTue 28 Oct 2025 00.05.05\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-7.678018,111.924445[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 00.05.05\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mTue 28 Oct 2025 00.05.06\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m ../../Location
+\e[92m[\e[90mTue 28 Oct 2025 00.05.18\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m34.71.214.216[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 00.05.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+\e[92m[\e[90mTue 28 Oct 2025 00.05.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m13.59.88.221[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 00.05.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+\e[92m[\e[90mTue 28 Oct 2025 00.05.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m54.71.187.124[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 00.05.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+\e[92m[\e[90mTue 28 Oct 2025 00.09.27\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mTue 28 Oct 2025 00.09.28\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mTue 28 Oct 2025 00.09.28\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mTue 28 Oct 2025 14.25.19\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 14.25.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mTue 28 Oct 2025 14.25.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mTue 28 Oct 2025 14.25.33\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://spoo.me/ZkfkV4
+\e[92m[\e[90mTue 28 Oct 2025 14.25.34\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mTue 28 Oct 2025 14.25.34\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mTue 28 Oct 2025 14.25.48\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m35.187.132.9[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 14.25.48\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)
+\e[92m[\e[90mTue 28 Oct 2025 14.25.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m34.71.214.216[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 14.25.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Macintosh; 
+\e[92m[\e[90mTue 28 Oct 2025 14.25.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m44.222.211.99[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 14.25.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+\e[92m[\e[90mTue 28 Oct 2025 14.25.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m54.70.53.60[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 14.25.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+\e[92m[\e[90mTue 28 Oct 2025 14.25.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m35.187.132.7[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 14.25.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)
+\e[92m[\e[90mTue 28 Oct 2025 14.25.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m35.187.132.6[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 14.25.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)
+\e[92m[\e[90mTue 28 Oct 2025 14.25.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m35.187.132.10[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 14.25.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Macintosh; 
+\e[92m[\e[90mTue 28 Oct 2025 14.25.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m34.86.212.119[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 14.25.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2820.59 Safari/537.36
+\e[92m[\e[90mTue 28 Oct 2025 14.25.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m35.187.132.8[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 14.25.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Macintosh; 
+\e[92m[\e[90mTue 28 Oct 2025 14.25.59\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m52.34.76.65[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 14.25.59\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+\e[92m[\e[90mTue 28 Oct 2025 14.26.03\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m18.218.115.248[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 14.26.03\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+\e[92m[\e[90mTue 28 Oct 2025 14.26.03\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m18.226.172.40[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 14.26.03\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+\e[92m[\e[90mTue 28 Oct 2025 14.26.04\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m35.187.132.11[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 14.26.04\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Android 13; Mobile; rv:109.0) Gecko/112.0 Firefox/112.0 AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)
+\e[92m[\e[90mTue 28 Oct 2025 14.26.04\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m35.187.132.10[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 14.26.04\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Android 13; Mobile; rv:109.0) Gecko/112.0 Firefox/112.0 AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)
+\e[92m[\e[90mTue 28 Oct 2025 14.37.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 14.37.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mTue 28 Oct 2025 14.38.46\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-7.685308,111.916478[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 14.38.46\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mTue 28 Oct 2025 14.38.47\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m ../../Location
+\e[92m[\e[90mTue 28 Oct 2025 14.59.41\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mTue 28 Oct 2025 14.59.41\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mTue 28 Oct 2025 14.59.41\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mTue 28 Oct 2025 23.40.15\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 23.40.18\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mTue 28 Oct 2025 23.40.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mTue 28 Oct 2025 23.40.32\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_lbfgdra
+\e[92m[\e[90mTue 28 Oct 2025 23.40.32\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mTue 28 Oct 2025 23.40.33\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mTue 28 Oct 2025 23.42.50\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 23.42.53\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mTue 28 Oct 2025 23.42.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mTue 28 Oct 2025 23.43.08\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://spoo.me/OFSDey
+\e[92m[\e[90mTue 28 Oct 2025 23.43.08\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mTue 28 Oct 2025 23.43.08\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mTue 28 Oct 2025 23.43.28\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mTue 28 Oct 2025 23.43.28\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mTue 28 Oct 2025 23.45.01\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mTue 28 Oct 2025 23.45.01\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mTue 28 Oct 2025 23.45.01\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 07.27.46\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 07.27.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 07.27.50\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 07.36.35\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_e6o8lja
+\e[92m[\e[90mWed 29 Oct 2025 07.36.35\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 07.36.35\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 07.36.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 07.36.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 07.38.44\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 07.38.44\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 07.38.44\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 08.12.54\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 08.12.57\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 08.12.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 08.13.16\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_eadqr0d
+\e[92m[\e[90mWed 29 Oct 2025 08.13.16\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 08.13.16\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 08.13.34\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 08.13.34\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 08.13.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 08.13.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 08.13.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 08.19.41\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 08.19.44\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 08.19.45\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 08.19.57\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_tsyxsib
+\e[92m[\e[90mWed 29 Oct 2025 08.19.57\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 08.19.57\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 08.20.11\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 08.20.11\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 08.21.11\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 08.21.11\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 08.21.11\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 11.27.26\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 11.27.29\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 11.27.30\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 11.27.42\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://spoo.me/9bpX9S
+\e[92m[\e[90mWed 29 Oct 2025 11.27.42\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 11.27.42\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 11.27.57\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 11.27.57\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 11.29.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 11.29.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 11.29.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 11.33.24\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 11.33.27\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 11.33.28\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 11.33.39\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_ezxe6wo
+\e[92m[\e[90mWed 29 Oct 2025 11.33.39\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 11.33.39\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 11.33.51\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 11.33.52\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 11.34.42\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 11.34.42\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 11.34.42\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 11.37.45\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 11.37.48\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 11.37.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 11.59.08\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_oxlisva
+\e[92m[\e[90mWed 29 Oct 2025 11.59.08\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 11.59.08\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 12.22.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 12.22.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 12.23.39\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 12.23.39\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 12.23.40\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 12.27.29\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 12.27.32\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 12.27.33\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 12.27.44\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_lkzlmm8
+\e[92m[\e[90mWed 29 Oct 2025 12.27.44\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 12.27.45\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 12.29.12\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 12.29.12\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 12.29.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 12.29.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 12.29.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 12.52.37\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 12.52.40\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 12.52.41\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 12.53.43\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_jojgkwm
+\e[92m[\e[90mWed 29 Oct 2025 12.53.43\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 12.53.43\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 12.54.08\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 12.54.08\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 13.35.03\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 13.35.03\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 13.35.03\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 14.24.56\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.24.59\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 14.25.00\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 14.25.08\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://spoo.me/ExcjxN
+\e[92m[\e[90mWed 29 Oct 2025 14.25.08\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 14.25.08\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 14.25.29\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.25.29\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 14.25.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-7.685308,111.916478[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.25.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mWed 29 Oct 2025 14.25.59\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m ../../Location
+\e[92m[\e[90mWed 29 Oct 2025 14.31.38\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m35.187.132.9[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.31.38\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Macintosh; 
+\e[92m[\e[90mWed 29 Oct 2025 14.31.38\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m34.86.212.119[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.31.38\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows Mobile 10; Android 10.0; Microsoft; Lumia 950XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 Edge/40.15254.603
+\e[92m[\e[90mWed 29 Oct 2025 14.31.39\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m3.144.214.113[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.31.39\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+\e[92m[\e[90mWed 29 Oct 2025 14.31.42\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m45.84.107.97[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.31.42\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (compatible; MS
+\e[92m[\e[90mWed 29 Oct 2025 14.31.48\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m35.187.132.9[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.31.48\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Macintosh; 
+\e[92m[\e[90mWed 29 Oct 2025 14.31.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m35.187.132.11[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.31.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Macintosh; 
+\e[92m[\e[90mWed 29 Oct 2025 14.31.51\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m35.187.132.9[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.31.51\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)
+\e[92m[\e[90mWed 29 Oct 2025 14.31.51\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m54.211.143.196[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.31.52\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51
+\e[92m[\e[90mWed 29 Oct 2025 14.31.52\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m34.71.214.216[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.31.52\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 14.31.53\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m171.25.193.82[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.31.53\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (compatible; MS
+\e[92m[\e[90mWed 29 Oct 2025 14.32.01\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m35.187.132.11[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.32.01\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)
+\e[92m[\e[90mWed 29 Oct 2025 14.32.02\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m35.187.132.11[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.32.02\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)
+\e[92m[\e[90mWed 29 Oct 2025 14.32.12\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m54.71.187.124[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.32.12\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 14.32.21\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m54.71.187.124[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.32.21\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 14.53.33\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m38.127.125.119[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 14.53.33\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.35/36 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 15.31.48\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m34.72.176.129[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.31.48\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/125.0.6422.60 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 15.32.01\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m64.225.100.118[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.32.01\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 15.32.45\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m79.104.209.106[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.32.45\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+\e[92m[\e[90mWed 29 Oct 2025 15.32.47\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m34.72.176.129[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.32.47\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/125.0.6422.60 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 15.33.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m205.169.39.13[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.33.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.132 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 15.33.35\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m34.122.147.229[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.33.35\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/125.0.6422.60 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 15.34.06\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m205.169.39.13[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.34.06\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.132 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 15.37.06\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m77.81.142.69[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.37.06\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 15.37.15\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m103.108.174.9[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.37.15\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 15.38.17\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m81.161.59.17[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.38.17\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 15.38.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m103.115.186.108[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.38.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Macintosh; 
+\e[92m[\e[90mWed 29 Oct 2025 15.38.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m103.115.187.143[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.38.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Macintosh; 
+\e[92m[\e[90mWed 29 Oct 2025 15.38.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m45.38.238.58[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.38.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 15.38.25\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m136.0.100.38[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.38.25\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 15.40.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m193.128.111.106[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.40.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Macintosh; U; 
+\e[92m[\e[90mWed 29 Oct 2025 15.43.13\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m176.100.243.133[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.43.13\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 15.50.59\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m149.154.161.204[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.50.59\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mTelegramBot (like TwitterBot)
+\e[92m[\e[90mWed 29 Oct 2025 15.51.33\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m114.5.240.182[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.51.33\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mWhatsApp/2.23.20.0
+\e[92m[\e[90mWed 29 Oct 2025 15.52.31\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m2a09:bac5:3a1d:18be::277:28[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 15.52.31\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Linux; Android 11; RMX3268 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.97 Mobile Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 15.59.21\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 15.59.21\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 15.59.21\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 16.01.59\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 16.02.02\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 16.02.03\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 16.02.19\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_lmt7ic6
+\e[92m[\e[90mWed 29 Oct 2025 16.02.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 16.02.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 18.30.59\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 18.31.02\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 18.31.03\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 18.31.11\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_qfnhiar
+\e[92m[\e[90mWed 29 Oct 2025 18.31.11\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 18.31.11\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 18.31.25\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 18.31.25\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 18.31.40\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 18.31.40\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 18.32.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 18.32.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 18.32.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 18.49.41\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 18.49.44\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 18.49.45\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 18.49.54\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_tqclbze
+\e[92m[\e[90mWed 29 Oct 2025 18.49.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 18.49.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 18.50.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 18.50.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 19.34.51\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 19.34.51\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 19.34.51\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 20.13.34\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 20.13.37\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 20.13.38\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 20.13.47\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_vuifgoj
+\e[92m[\e[90mWed 29 Oct 2025 20.13.47\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 20.13.47\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 20.14.08\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 20.14.08\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 20.14.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 20.14.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 20.15.15\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 20.15.15\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 20.15.15\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 20.18.23\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 20.18.26\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 20.18.27\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 20.18.34\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://spoo.me/sva4a5
+\e[92m[\e[90mWed 29 Oct 2025 20.18.34\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 20.18.34\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 20.19.10\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 20.19.10\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 20.23.06\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 20.23.06\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 20.23.06\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 20.27.40\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 20.27.43\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 20.27.44\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 21.39.20\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 21.39.23\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 21.39.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 21.39.32\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_0kg2w1w
+\e[92m[\e[90mWed 29 Oct 2025 21.39.32\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 21.39.33\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 21.39.52\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 21.39.52\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 21.51.07\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 21.51.07\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 21.51.07\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 22.10.08\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 22.10.11\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 22.10.12\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 22.10.26\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_3hcwblx
+\e[92m[\e[90mWed 29 Oct 2025 22.10.26\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 22.10.26\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 22.10.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 22.10.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 22.10.58\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 22.15.14\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 22.15.17\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 22.15.18\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 22.15.35\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_7ur1xsa
+\e[92m[\e[90mWed 29 Oct 2025 22.15.35\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 22.15.35\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 22.15.53\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 22.15.53\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 22.16.23\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 22.16.23\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 22.16.23\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 22.22.32\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 22.22.35\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 22.22.36\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 22.22.41\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://spoo.me/8f4Hdc
+\e[92m[\e[90mWed 29 Oct 2025 22.22.41\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 22.22.41\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 22.22.53\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 22.22.53\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 22.23.09\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 22.23.09\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 22.26.16\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 22.26.16\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 22.26.16\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 22.35.36\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 22.35.39\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 22.35.40\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 22.36.00\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_ribupbo
+\e[92m[\e[90mWed 29 Oct 2025 22.36.00\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 22.36.00\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 22.36.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 22.36.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 22.38.36\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 22.38.36\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 22.47.47\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 22.47.47\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 22.47.47\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 23.00.26\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 23.00.29\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 23.00.30\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 23.00.37\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_8akmpoz
+\e[92m[\e[90mWed 29 Oct 2025 23.00.38\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 23.00.38\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 23.01.37\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 23.01.37\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 23.01.44\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 23.01.44\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 23.03.28\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 23.03.28\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 23.03.28\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 23.07.02\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 23.07.05\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 23.07.06\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 23.07.32\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_hzrgsye
+\e[92m[\e[90mWed 29 Oct 2025 23.07.32\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 23.07.32\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 23.07.51\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 23.07.51\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 23.09.33\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 23.09.34\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 23.09.34\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 23.23.16\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 23.23.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 23.23.21\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 23.23.32\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_oqncmdz
+\e[92m[\e[90mWed 29 Oct 2025 23.23.32\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 23.23.32\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 23.23.47\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 23.23.47\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 23.25.02\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 23.25.02\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 23.25.02\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 23.35.03\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 23.35.06\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 23.35.08\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 23.35.22\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_6woiqnu
+\e[92m[\e[90mWed 29 Oct 2025 23.35.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 23.35.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 23.36.01\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 23.36.01\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 23.37.30\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 23.37.30\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 23.37.30\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mWed 29 Oct 2025 23.44.34\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 23.44.37\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mWed 29 Oct 2025 23.44.38\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mWed 29 Oct 2025 23.45.19\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_4zlqwwp
+\e[92m[\e[90mWed 29 Oct 2025 23.45.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 23.45.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mWed 29 Oct 2025 23.45.37\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m149.154.161.249[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 23.45.37\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mTelegramBot (like TwitterBot)
+\e[92m[\e[90mWed 29 Oct 2025 23.45.45\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m114.5.240.182[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 23.45.45\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.97 Mobile Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 23.45.46\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m114.5.240.182[1m[33m]
+\e[92m[\e[90mWed 29 Oct 2025 23.45.46\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36
+\e[92m[\e[90mWed 29 Oct 2025 23.46.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mWed 29 Oct 2025 23.46.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mWed 29 Oct 2025 23.46.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mThu 30 Oct 2025 11.42.16\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 11.42.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mThu 30 Oct 2025 11.42.20\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mThu 30 Oct 2025 11.42.34\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://spoo.me/CAcRx6
+\e[92m[\e[90mThu 30 Oct 2025 11.42.34\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mThu 30 Oct 2025 11.42.34\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mThu 30 Oct 2025 11.42.48\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 11.42.48\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mThu 30 Oct 2025 11.50.33\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mThu 30 Oct 2025 11.50.33\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mThu 30 Oct 2025 11.50.33\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mThu 30 Oct 2025 12.01.40\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 12.01.43\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mThu 30 Oct 2025 12.01.44\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mThu 30 Oct 2025 12.01.55\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://spoo.me/ZXyTak
+\e[92m[\e[90mThu 30 Oct 2025 12.01.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mThu 30 Oct 2025 12.01.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mThu 30 Oct 2025 12.02.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 12.02.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mThu 30 Oct 2025 12.02.48\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-7.685308,111.916478[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 12.02.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mThu 30 Oct 2025 12.02.49\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m ../../Location
+\e[92m[\e[90mThu 30 Oct 2025 12.05.09\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mThu 30 Oct 2025 12.05.09\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mThu 30 Oct 2025 12.05.09\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mThu 30 Oct 2025 12.13.23\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 12.13.26\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mThu 30 Oct 2025 12.13.27\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mThu 30 Oct 2025 12.13.35\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://spoo.me/gzyaZS
+\e[92m[\e[90mThu 30 Oct 2025 12.13.35\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mThu 30 Oct 2025 12.13.35\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mThu 30 Oct 2025 12.13.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 12.13.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mThu 30 Oct 2025 12.14.46\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-7.678021,111.924448[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 12.14.46\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mThu 30 Oct 2025 12.14.46\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m ../../Location
+\e[92m[\e[90mThu 30 Oct 2025 12.23.14\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mThu 30 Oct 2025 12.23.14\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mThu 30 Oct 2025 12.23.14\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mThu 30 Oct 2025 13.10.21\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 13.10.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mThu 30 Oct 2025 13.10.26\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mThu 30 Oct 2025 13.10.37\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://spoo.me/vFPqHK
+\e[92m[\e[90mThu 30 Oct 2025 13.10.37\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mThu 30 Oct 2025 13.10.37\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mThu 30 Oct 2025 13.10.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 13.10.55\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mThu 30 Oct 2025 13.12.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mThu 30 Oct 2025 13.12.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mThu 30 Oct 2025 13.12.22\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mThu 30 Oct 2025 13.16.21\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 13.16.25\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mThu 30 Oct 2025 13.16.26\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mThu 30 Oct 2025 13.16.41\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_hbr1ewo
+\e[92m[\e[90mThu 30 Oct 2025 13.16.41\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mThu 30 Oct 2025 13.16.41\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mThu 30 Oct 2025 13.17.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m202.58.78.110[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 13.17.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+\e[92m[\e[90mThu 30 Oct 2025 13.17.43\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-7.685308,111.916478[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 13.17.43\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mThu 30 Oct 2025 13.17.43\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m ../../Location
+\e[92m[\e[90mThu 30 Oct 2025 13.23.52\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m114.5.108.17[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 13.23.52\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mWhatsApp/2.23.20.0
+\e[92m[\e[90mThu 30 Oct 2025 13.26.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m158.140.166.65[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 13.26.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6828.70 Safari/537.36
+\e[92m[\e[90mThu 30 Oct 2025 13.27.17\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m158.140.166.65[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 13.27.17\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6828.70 Safari/537.36
+\e[92m[\e[90mThu 30 Oct 2025 13.28.03\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-6.766907,108.559860[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 13.28.03\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mThu 30 Oct 2025 13.28.03\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m ../../Location
+\e[92m[\e[90mThu 30 Oct 2025 15.47.36\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mThu 30 Oct 2025 15.47.36\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mThu 30 Oct 2025 15.47.36\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mThu 30 Oct 2025 21.15.19\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mThu 30 Oct 2025 21.15.23\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mThu 30 Oct 2025 21.15.24\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mThu 30 Oct 2025 21.15.46\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_bxvhcph
+\e[92m[\e[90mThu 30 Oct 2025 21.15.46\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mThu 30 Oct 2025 21.15.47\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mThu 30 Oct 2025 21.17.29\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mThu 30 Oct 2025 21.17.30\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mThu 30 Oct 2025 21.17.30\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam
+\e[92m[\e[90mSun 02 Nov 2025 08.45.34\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mSun 02 Nov 2025 08.45.37\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSun 02 Nov 2025 08.45.38\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSun 02 Nov 2025 09.09.59\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mSun 02 Nov 2025 09.10.02\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSun 02 Nov 2025 09.10.04\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSun 02 Nov 2025 10.09.50\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m [1m[37mMemulai Server [1m[31mlocal [1m[33m[[1m[36m127[1m[31m.[1m[36m0[1m[31m.[1m[36m0[1m[31m.[1m[36m1[0m[35m:[1m[36m5000[1m[33m]
+\e[92m[\e[90mSun 02 Nov 2025 10.09.54\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mMemulai [1m[33mINIT [1m[36mTracking [1m[31mLocation [1m[32mFish [0m[35m-[1m[31m> [1m[30m[[1m[33mRunning[1m[30m]
+\e[92m[\e[90mSun 02 Nov 2025 10.09.56\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33mMode [1m[34m<[1m[32m+[1m[34m> [1m[36mShortlink
+\e[92m[\e[90mSun 02 Nov 2025 10.11.02\e[92m]\e[90m [\e[93mDEBUG\e[90m]\e[97m Link [1m[31m❮[1m[36m⌬[1m[31m❯[1m[37m https://idm.in/t_kjgulwq
+\e[92m[\e[90mSun 02 Nov 2025 10.11.03\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Menunggu Target \e[0m\e[1;77m Press Ctrl + C to exit...\e[0m
+\e[92m[\e[90mSun 02 Nov 2025 10.11.03\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[34m➤[1m[37m Lokasi ip lookup telah \e[0m\e[1;93mACTIVE\e[0m
+\e[92m[\e[90mSun 02 Nov 2025 10.12.35\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m149.154.161.216[1m[33m]
+\e[92m[\e[90mSun 02 Nov 2025 10.12.35\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mTelegramBot (like TwitterBot)
+\e[92m[\e[90mSun 02 Nov 2025 10.13.05\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m103.154.148.179[1m[33m]
+\e[92m[\e[90mSun 02 Nov 2025 10.13.05\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.3 Mobile Safari/537.36
+\e[92m[\e[90mSun 02 Nov 2025 10.13.17\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mIp address di dapatkan [1m[33m[[1m[36m2001:448a:50c2:2f4:bcc8:d646:3654:6156[1m[33m]
+\e[92m[\e[90mSun 02 Nov 2025 10.13.17\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[33m? [1m[37mUserAgent di dapatkan [1m[34m> [1m[30mMozilla/5.0 (Linux; Android 15; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36
+\e[92m[\e[90mSun 02 Nov 2025 10.16.51\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-8.718613,116.850838[1m[33m]
+\e[92m[\e[90mSun 02 Nov 2025 10.16.52\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSun 02 Nov 2025 10.17.16\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⚉ [1m[37mLokasi Telah Di dapatkan [1m[33m[[1m[36mhttps://www.google.com/maps/search/?api=1&query=-8.718613,116.850838[1m[33m]
+\e[92m[\e[90mSun 02 Nov 2025 10.17.17\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[36m⎚ [1m[37mInformasi Lainnya [1m[33m :[0m
+\e[92m[\e[90mSun 02 Nov 2025 10.17.19\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mBerhasil Menyimpan Hasil Track Di [1m[32m⛃[1m[33m /data/data/com.termux/files/home/Piramid-obf/v6/v8.7/v9/Trust-YourCam/Trust-YourCam/compile/Location
+\e[92m[\e[90mSun 02 Nov 2025 10.21.18\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[31mKeluar [1m[37mDari Program
+\e[92m[\e[90mSun 02 Nov 2025 10.21.18\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[37mgunakan [1m[33mmake stop [1m[37muntuk [1m[31mshutdown [1m[32mpanel
+\e[92m[\e[90mSun 02 Nov 2025 10.21.18\e[92m]\e[90m [\e[92mINFO\e[90m]\e[93m [1m[30mTools [1m[36mBy [1m[32mviewTech [1m[34mTeam

@@ -9,7 +9,7 @@ if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
     $ipaddress = $_SERVER['REMOTE_ADDR']."\r\n";
 }
 
-$useragent = " User-Agent: ";
+$useragent = "User-Agent: ";
 $browser = $_SERVER['HTTP_USER_AGENT'];
 
 $file = 'ip.txt';

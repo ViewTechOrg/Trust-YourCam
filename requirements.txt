@@ -4,3 +4,10 @@ httpie
 requests
 prompt_toolkit
 cloudscraper
+phonenumbers
+flask
+flask-cors
+cryptography
+pycryptodome
+crypto
+gunicorn

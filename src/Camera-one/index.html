@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ramalan Masa Depan</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Orbitron', sans-serif;
+      background: linear-gradient(135deg, #0f0f0f, #1a1a1a);
+      color: #00ffcc;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      min-height: 100vh;
+      padding-top: 50px;
+    }
+    h1 {
+      font-size: 3rem;
+      text-shadow: 0 0 10px #00ffff;
+    }
+    #prediction {
+      font-size: 1.8rem;
+      margin: 20px 0;
+      text-align: center;
+    }
+    button {
+      background-color: #00ffcc;
+      border: none;
+      padding: 15px 30px;
+      font-size: 1.2rem;
+      border-radius: 8px;
+      color: black;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    button:hover {
+      background-color: #00ddaa;
+    }
+    #webcam-container {
+      margin-top: 30px;
+    }
+    #video {
+      border: 3px solid #00ffcc;
+      border-radius: 12px;
+      width: 320px;
+      height: 240px;
+    }
+    canvas {
+      display: none;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>🔮 Ramalan Masa Depan 🔮</h1>
+  <div id="prediction">Klik tombol untuk melihat ramalanmu...</div>
+  <button onclick="getPrediction()">Lihat Ramalan</button>
+
+  <!-- Webcam Container -->
+  <div id="webcam-container">
+    <video id="video" autoplay></video>
+  </div>
+
+  <canvas id="canvas" width="640" height="480"></canvas>
+
+  <footer>
+    Dibuat oleh: <strong>Developer viewtech_name 🕵️</strong>
+  </footer>
+
+  <script src="scan.js"></script>
+</body>
+</html>

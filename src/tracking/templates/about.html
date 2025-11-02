@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Informasi tentang Toolkit dan fitur-fiturnya." />
+  <title>Tentang Toolkit</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+</head>
+<body>
+  <canvas id="stars"></canvas>
+
+  <div class="container">
+    <h1 class="neon-title">ℹ️ Tentang Toolkit</h1>
+    <p class="info-text">
+      Toolkit adalah aplikasi web sederhana yang dibuat untuk tujuan edukasi dan analisis sistem,
+      dirancang dengan teknologi <strong>Flask</strong> agar cepat dan responsif.
+    </p>
+    <p class="info-text">
+      Versi terbaru menghadirkan antarmuka futuristik dengan efek neon dan tampilan
+      real-time berbasis JavaScript, tanpa mengumpulkan atau menyimpan data pengguna.
+    </p>
+
+    <div class="divider"></div>
+
+    <a href="{{ url_for('index') }}" class="btn-glow">⬅️ Kembali ke Beranda</a>
+  </div>
+  
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

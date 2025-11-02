@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&display=swap');
+
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  font-family: 'Orbitron', sans-serif;
+  background: radial-gradient(ellipse at center, #0d0d2b 0%, #000 100%);
+  color:#fff;
+  overflow:hidden;
+}
+canvas#stars {
+  position:fixed;
+  top:0; left:0;
+  width:100%; height:100%;
+  z-index:-1;
+}
+
+.container {
+  backdrop-filter: blur(20px);
+  background: rgba(10, 10, 30, 0.6);
+  border: 1px solid rgba(120, 120, 255, 0.4);
+  border-radius: 1.2rem;
+  box-shadow: 0 0 25px rgba(0, 200, 255, 0.6), inset 0 0 15px rgba(79,70,229,0.4);
+  width: 90%;
+  max-width: 600px;
+  text-align: center;
+  padding: 2rem 2.5rem;
+  margin: 3rem auto;
+  animation: fadeIn 1.5s ease;
+}
+
+.neon-title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #00f3ff;
+  text-shadow: 0 0 8px #00f3ff, 0 0 15px #00c8ff, 0 0 25px #0096ff;
+}
+
+label {
+  display:block;
+  margin: 1rem 0 0.5rem;
+  font-weight:700;
+  color:#ccc;
+  text-align:left;
+}
+input[type="tel"] {
+  width:100%;
+  padding:0.75rem 1rem;
+  border-radius:0.6rem;
+  border:1.5px solid #00f3ff;
+  font-size:1rem;
+  color:#111;
+  outline:none;
+  background:#f0f9ff;
+  transition:0.3s;
+}
+input[type="tel"]:focus {
+  box-shadow:0 0 15px #00e1ff;
+}
+
+.btn-glow {
+  margin-top:1.5rem;
+  padding:0.9rem;
+  width:100%;
+  font-weight:700;
+  font-size:1rem;
+  border:none;
+  border-radius:0.8rem;
+  color:#fff;
+  background:linear-gradient(90deg,#00f3ff,#0077ff);
+  text-transform:uppercase;
+  cursor:pointer;
+  position:relative;
+  overflow:hidden;
+  box-shadow:0 0 20px #00f3ff;
+  transition: all 0.3s ease;
+}
+.btn-glow:hover {
+  transform:scale(1.05);
+  box-shadow:0 0 40px #00f3ff, 0 0 60px #0077ff;
+}
+
+/* ripple effect */
+.btn-glow:active::after {
+  content:"";
+  position:absolute;
+  top:50%; left:50%;
+  width:0; height:0;
+  background:rgba(255,255,255,0.4);
+  border-radius:50%;
+  transform:translate(-50%,-50%);
+  animation:ripple 0.6s linear;
+}
+@keyframes ripple {
+  to { width:200%; height:200%; opacity:0; }
+}
+
+/* === Status box === */
+.status {
+  margin-top:1rem;
+  padding:1rem;
+  border-radius:0.8rem;
+  display:none;
+  text-align:center;
+  font-size:0.95rem;
+  background:rgba(255,255,255,0.05);
+  color:#fff;
+  box-shadow: inset 0 0 10px rgba(0,243,255,0.3);
+}
+.status.success { color:#00ffae; text-shadow:0 0 8px #00ffae; }
+.status.error { color:#ff3d3d; text-shadow:0 0 8px #ff3d3d; }
+
+.info-text {
+  margin-top:1rem;
+  font-size:0.9rem;
+  color:#facc15;
+  text-shadow:0 0 8px #facc15;
+}
+
+.result-box {
+  margin-top:1rem;
+  text-align:left;
+  background:rgba(0,0,50,0.4);
+  border:1px solid rgba(0,243,255,0.4);
+  padding:1rem;
+  border-radius:0.8rem;
+  font-size:0.9rem;
+  line-height:1.5;
+  box-shadow:inset 0 0 15px rgba(0,243,255,0.3);
+}
+
+.status.info {
+  background: rgba(59, 130, 246, 0.15);
+  color: #3b82f6; /* biru */
+}
+
+.footer {
+  position: fixed;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+  color: #ccc;
+  font-size: 0.9em;
+}
+
+.footer a {
+  color: #0ff;
+  text-decoration: none;
+  margin: 0 5px;
+  transition: color 0.2s;
+}
+
+.footer a:hover {
+  color: #fff;
+}
+
+@keyframes fadeIn {
+  from { opacity:0; transform:translateY(-20px); }
+  to { opacity:1; transform:translateY(0); }
+}

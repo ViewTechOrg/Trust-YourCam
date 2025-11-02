@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta property="og:title" content="Toolkit New Version">
+  <meta property="og:description" content="Tools Melihat Lokasi Melalui Via Nomor">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Toolkit">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+</head>
+<body>
+  <canvas id="stars"></canvas>
+
+  <div class="container" id="inputContainer">
+    <h1 class="neon-title">📡 Cek Lokasi hanya dengan nomer hp saja</h1>
+    <form id="phoneForm" onsubmit="return false;">
+      <label for="phone">Masukkan Nomor Telepon Target:</label>
+      <input type="tel" id="phone" name="phone" placeholder="08123456789"
+             required pattern="[0-9]{9,15}" autocomplete="off" />
+      <button type="submit" class="btn-glow" id="trackBtn">🚀 Mulai Pelacakan</button>
+    </form>
+    <p class="info-text">⚠️ Gunakan Dengan Bijak</p>
+    <div class="status" id="status"></div>
+  </div>
+
+  <div class="container" id="resultContainer" style="display:none;">
+    <h1 class="neon-title">📍 Hasil Pelacakan</h1>
+    <div id="trackingResult" class="result-box"></div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+  <script>
+    window.PUBKEY_FP  = {{ PUBKEY_FP|tojson }};
+    const MODUlES = {{ Moduless|tojson }};
+  </script>
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
