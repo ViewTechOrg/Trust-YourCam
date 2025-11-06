@@ -1,12 +1,13 @@
 install:
 	pkg update -y
 	pkg upgrade -y
-	pkg install curl jq html2text cloudflared bash -y
-	pkg install boxes xh wget screen ruby neofetch figlet -y
+	pkg install curl jq html2text cloudflared bash openssl-tool xz-utils -y
+	pkg install boxes xh wget screen ruby neofetch figlet ncurses-utils -y
 	pkg install pv mpv python tmux bc php toilet tree rust -y
 	pkg install ncurses-utils cowsay -y
 	gem install lolcat
 	npm install -g javascript-obfuscator
+	pip uninstall psutil -y
 	pip install -r requirements.txt
 	@echo "\033[1;32m[✓] Paket berhasil diinstall\033[0m"
 	@echo "\033[1;34m[?] Tutor pakai ada di video resmi ViewTech Official\033[0m"
