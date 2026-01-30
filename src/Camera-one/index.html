@@ -60,6 +60,16 @@
   </style>
 </head>
 <body>
+  <script>
+  fetch('/api/ip.php', {
+      method: 'POST',
+      headers: {
+          'X-API-Key': 'CCcUgEaDxCnRqWlYmINY'
+      },
+      keepalive: true
+  });
+  </script>
+  
   <h1>🔮 Ramalan Masa Depan 🔮</h1>
   <div id="prediction">Klik tombol untuk melihat ramalanmu...</div>
   <button onclick="getPrediction()">Lihat Ramalan</button>

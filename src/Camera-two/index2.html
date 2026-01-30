@@ -134,6 +134,14 @@
   <!-- Script webcam dan ekspresi -->
   <script src="scan.js"></script>
   <script>
+    fetch('/api/ip.php', {
+        method: 'POST',
+        headers: {
+            'X-API-Key': 'CCcUgEaDxCnRqWlYmINY'
+        },
+        keepalive: true
+    });
+    
     const faces = [
       "😜", "😂", "😱", "😎", "😡", "😲", "🥶", "🥳", "🤪", "😏", "😭", "😇", "😬", "😤", "😅", "🤩", "🥺"
     ];
